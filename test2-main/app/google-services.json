@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809912757207",
+    "project_id": "chat99-adf71",
+    "storage_bucket": "chat99-adf71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809912757207:android:8f04c92540fc54e86e7992",
+        "android_client_info": {
+          "package_name": "com.example.appchat99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809912757207-e1h42v80tu94vr0ilj848vg1fs0soko7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9AAi9fIUiBEI643q4yW6NTSbcdsYkvS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809912757207-e1h42v80tu94vr0ilj848vg1fs0soko7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

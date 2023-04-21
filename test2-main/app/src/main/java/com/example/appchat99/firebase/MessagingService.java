@@ -1,0 +1,23 @@
+package com.example.appchat99.firebase;
+
+
+import androidx.annotation.NonNull;
+
+import com.example.appchat99.models.User;
+import com.google.firebase.messaging.FirebaseMessagingService;
+import com.google.firebase.messaging.RemoteMessage;
+
+public class MessagingService extends FirebaseMessagingService {
+    @Override
+    public void onNewToken(@NonNull String token) {
+        super.onNewToken(token);
+
+    }
+
+    @Override
+    public void onMessageReceived(@NonNull  RemoteMessage remoteMessage) {
+        super.onMessageReceived(remoteMessage);
+        User user= new User();
+
+    }
+}
